@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamajan</h1>
-<h3 align="center">I am progressing in the field of Cybersecurity.</h3>
+<h3 align="center">I am progressing in the field of cyber security.</h3>
 
 - 🔭 I’m currently working on **Kali Linux**
 
