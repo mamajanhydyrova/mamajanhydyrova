@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kali Linux**
 
-- 📫 How to reach me **mamajanhydyrova@gmail.com**
+- 📫 How to reach me **mamajanhydyrova4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
